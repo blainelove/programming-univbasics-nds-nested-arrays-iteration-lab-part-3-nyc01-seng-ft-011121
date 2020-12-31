@@ -16,4 +16,4 @@ def join_nested_strings(src)
   # Combine all Strings present in the AoA into a single value and return it
 end
 list = [1, "hi"]
-join_nested_strings(list)
+p join_nested_strings(list)
